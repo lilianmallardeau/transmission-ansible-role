@@ -1,6 +1,6 @@
 galaxy_info:
   author: Lilian Mallardeau
-  description: Installs and configure Transmission daemon
+  description: Installs and configures Transmission daemon
   license: MIT
 
   min_ansible_version: 2.1
